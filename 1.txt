@@ -1,1 +1,0 @@
-xx = sum((Rcos(ones(2*2,1)*alpha(1), T_symbolrate, -1*T_symbolrate*(-1:1:2).' + ones(2*2,1)*0.5)).^2);
